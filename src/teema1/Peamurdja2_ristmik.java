@@ -30,9 +30,9 @@ public class Peamurdja2_ristmik extends Application {
         while (count < 10) {
             if (count != 0) {
                 foor.vahetaPunast();
-                foor.paus(4.4);
+                foor.paus(5.5);
                 foor.vahetaKollast();
-                foor.paus(0.6);
+                foor.paus(0.5);
                 foor.vahetaPunast();
                 foor.vahetaKollast();
 
